@@ -1,0 +1,9 @@
+networkx>=3.2
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.5
+sentence-transformers>=3.0
+torch>=2.2
+pytest>=8.0
