@@ -15,7 +15,6 @@ from data_processing import (
 
 
 class PGRL(nn.Module):
-    """Prompt-based graph representation learning model."""
 
     def __init__(
         self,
